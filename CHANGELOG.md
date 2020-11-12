@@ -1,3 +1,10 @@
+# [2.11.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.10.0...v2.11.0) (2020-11-12)
+
+
+### Features
+
+* add config ([8fb2ad6](https://github.com/RubenGuerrero/react-app-semantic-release/commit/8fb2ad6be4ec2df2904622fabd9fc89b96c94ee5))
+
 # [2.10.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.9.0...v2.10.0) (2020-11-12)
 
 
