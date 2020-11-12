@@ -20,9 +20,11 @@ const Home = () => (
 const Dash = () => {
   const params = useParams();
 
+  const { id = "" } = params;
+
   return (
     <div>
-      <h1>Dashboard {params.id.toString()}</h1>
+      <h1>Dashboard {id.toString()}</h1>
     </div>
   );
 };
