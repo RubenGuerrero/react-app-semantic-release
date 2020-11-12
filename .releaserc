@@ -32,8 +32,8 @@
     [
       "@eclass/semantic-release-sentry-releases",
       {
-        "sourcemaps": "build/static",
-        "urlPrefix": "~/static"
+        "sourcemaps": "build/static/js",
+        "urlPrefix": "~/static/js"
       }
     ]
   ]
