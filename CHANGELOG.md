@@ -1,3 +1,10 @@
+# [2.14.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.13.0...v2.14.0) (2020-11-12)
+
+
+### Features
+
+* refactor ([2bc2ca6](https://github.com/RubenGuerrero/react-app-semantic-release/commit/2bc2ca63337efa18f045a0936fa5d2d19856c303))
+
 # [2.13.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.12.0...v2.13.0) (2020-11-12)
 
 
