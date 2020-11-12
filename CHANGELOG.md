@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.6.0...v2.7.0) (2020-11-12)
+
+
+### Features
+
+* add another error ([3d6ebaa](https://github.com/RubenGuerrero/react-app-semantic-release/commit/3d6ebaa56c76b9730d6983ff406b907c8b7cfd15))
+
 # [2.6.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.5.0...v2.6.0) (2020-11-12)
 
 
