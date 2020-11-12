@@ -32,8 +32,8 @@
     [
       "@eclass/semantic-release-sentry-releases",
       {
-        "sourcemaps": "dist",
-        "urlPrefix": "~/dist"
+        "sourcemaps": "build",
+        "urlPrefix": ""
       }
     ]
   ]
