@@ -1,3 +1,10 @@
+# [2.8.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.7.1...v2.8.0) (2020-11-12)
+
+
+### Features
+
+* add routing ([1be429d](https://github.com/RubenGuerrero/react-app-semantic-release/commit/1be429db422a1c909a11787fe3d13c9668baa094))
+
 ## [2.7.1](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.7.0...v2.7.1) (2020-11-12)
 
 
