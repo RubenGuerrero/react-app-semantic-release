@@ -21,4 +21,7 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SENTRY_AUTH_TOKEN: ${{ secrets.SENTRY_AUTH_TOKEN }}
+          SENTRY_ORG: rubenguerrero
+          SENTRY_PROJECT: rubenguerrero
         run: npx semantic-release
