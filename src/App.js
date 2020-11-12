@@ -18,7 +18,6 @@ function App({ app }) {
           Learn React
         </a>
       </header>
-      {app.aa.toString()}
     </div>
   );
 }
