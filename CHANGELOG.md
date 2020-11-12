@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.2.0...v2.3.0) (2020-11-12)
+
+
+### Features
+
+* send sourcemaps to Github ([a12a4e4](https://github.com/RubenGuerrero/react-app-semantic-release/commit/a12a4e4afdd322787e3746858d7606aa038fd97e))
+
 # [2.2.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.1.0...v2.2.0) (2020-11-12)
 
 
