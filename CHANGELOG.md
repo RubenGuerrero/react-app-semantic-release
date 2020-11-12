@@ -1,3 +1,10 @@
+## [2.14.1](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.14.0...v2.14.1) (2020-11-12)
+
+
+### Bug Fixes
+
+* aa ([de5f262](https://github.com/RubenGuerrero/react-app-semantic-release/commit/de5f262318c3c402a64171ff02c848ad8e4bf173))
+
 # [2.14.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.13.0...v2.14.0) (2020-11-12)
 
 
