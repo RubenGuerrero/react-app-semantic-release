@@ -2,6 +2,7 @@
   "name": "react-app-semantic-release",
   "version": "2.1.0",
   "dependencies": {
+    "@semantic-release/exec": "^5.0.0",
     "@sentry/react": "^5.27.3",
     "@sentry/tracing": "^5.27.3",
     "@testing-library/jest-dom": "^4.2.4",
