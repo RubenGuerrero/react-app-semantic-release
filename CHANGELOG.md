@@ -1,3 +1,10 @@
+## [2.7.1](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.7.0...v2.7.1) (2020-11-12)
+
+
+### Bug Fixes
+
+* remove error ([940a40a](https://github.com/RubenGuerrero/react-app-semantic-release/commit/940a40a7076f5119a9c65da94d617f27664b44fa))
+
 # [2.7.0](https://github.com/RubenGuerrero/react-app-semantic-release/compare/v2.6.0...v2.7.0) (2020-11-12)
 
 
