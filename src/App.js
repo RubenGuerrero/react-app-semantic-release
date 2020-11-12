@@ -1,11 +1,7 @@
 import React from "react";
-import useSWR from "swr";
-import fetch from "unfetch";
 
 import logo from "./logo.svg";
 import "./App.css";
-
-const fetcher = (url) => fetch(url).then((r) => r.json());
 
 function App({ app }) {
   return (
