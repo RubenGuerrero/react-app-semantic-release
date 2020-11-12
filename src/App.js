@@ -18,6 +18,7 @@ function App({ app }) {
           Learn React
         </a>
       </header>
+      {app.toString()}
     </div>
   );
 }
