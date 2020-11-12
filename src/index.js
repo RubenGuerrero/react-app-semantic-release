@@ -11,7 +11,7 @@ Sentry.init({
   dsn:
     "https://5af944d87ad142818ca92ec09de84ebf@o475829.ingest.sentry.io/5514354",
   integrations: [new Integrations.BrowserTracing()],
-  release: `v${process.env.REACT_APP_VERSION}`,
+  release: process.env.REACT_APP_VERSION,
 
   // We recommend adjusting this value in production, or using tracesSampler
   // for finer control
