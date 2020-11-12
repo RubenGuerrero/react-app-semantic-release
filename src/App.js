@@ -34,6 +34,7 @@ function App({ app }) {
       <Router>
         <Home path="/" />
         <Dash path="dashboard/:id" />
+        <Dash path="dashboard" />
       </Router>
     </div>
   );
