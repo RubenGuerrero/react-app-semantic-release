@@ -33,7 +33,7 @@
       "@eclass/semantic-release-sentry-releases",
       {
         "sourcemaps": "build",
-        "urlPrefix": ""
+        "urlPrefix": "~/build"
       }
     ]
   ]
